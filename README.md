@@ -18,7 +18,6 @@ Table of contents
 
 ### 🛠 Stacks
 
-As seguintes ferramentas foram usadas na construção do repositório:
 
 - [C# v. 10](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 - [.NET v. 6.0](https://spring.io/)
